@@ -11,10 +11,10 @@ Use the Train2 module for training, change the directories to point to a folder 
 
 the folder should look like this
 
-videos
+-videos
 >>>>a.mp4
 >>>>b.mp4
-images
+-images
 >>>>a.png
 >>>>b.png
 
