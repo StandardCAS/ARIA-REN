@@ -11,13 +11,9 @@ Use the Train2 module for training, change the directories to point to a folder 
 
 the folder should look like this
 
--videos
->>>>a.mp4
->>>>b.mp4
-
--images
->>>>a.png
->>>>b.png
+>videos
+>>a.mp4
+>>b.mp4
 
 Choose any video that is a timelapse playback in mp4 format and run it with TABLET ONE to autosave the tablet model. 
 
