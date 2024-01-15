@@ -10,11 +10,11 @@ This work, including the ARIA system, is licensed under a Creative Commons Attri
 Use the Train2 module for training, change the directories to point to a folder with videos and another with the models saved from running TABLET ONE.py
 
 the folder should look like this
-root
->>videos
+
+videos
 >>>>a.mp4
 >>>>b.mp4
->>images
+images
 >>>>a.png
 >>>>b.png
 
