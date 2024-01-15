@@ -13,10 +13,12 @@ the folder should look like this
 
 Videos
 >a.mp4
+
 >b.mp4
 
 Tablets
 >a.npy
+
 >b.npy
 
 Choose any video that is a timelapse playback in mp4 format and run it with TABLET ONE to autosave the tablet model. 
