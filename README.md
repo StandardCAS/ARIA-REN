@@ -14,6 +14,7 @@ the folder should look like this
 >videos
 >>a.mp4
 >>b.mp4
+>images
 
 Choose any video that is a timelapse playback in mp4 format and run it with TABLET ONE to autosave the tablet model. 
 
