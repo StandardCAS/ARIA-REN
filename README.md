@@ -14,8 +14,20 @@ the folder should look like this
 -videos
 >>>>a.mp4
 >>>>b.mp4
+
 -images
 >>>>a.png
 >>>>b.png
 
 Choose any video that is a timelapse playback in mp4 format and run it with TABLET ONE to autosave the tablet model. 
+
+-----------------------
+
+How big is the model? 
+4Gb around 10 seconds of timelapse(around 300 frames).
+
+How much space for CPU?
+At least 128Gb.
+
+How much space for GPU?
+At least 64Gb.
