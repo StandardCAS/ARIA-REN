@@ -24,6 +24,7 @@ Tablets
 Choose any video that is a timelapse playback in mp4 format and run it with TABLET ONE to autosave the tablet model. 
 
 -----------------------
+FAQs
 
 How big is the model? 
 4Gb around 10 seconds of timelapse(around 300 frames).
@@ -33,3 +34,9 @@ At least 128Gb.
 
 How much space for GPU?
 At least 64Gb.
+
+If I am training for a usable model to predict a decent result(around 30 seconds of playback), how big would the model be?
+Training Set of at least 2Tb and model at 20Gb.
+
+Why don't you and Celsia optimize this program?
+Who is Celsia anyways?
